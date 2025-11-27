@@ -1,4 +1,4 @@
-#Intent Statement for Database Schema & Earth Systems Geologic Mapping Project
+# Intent Statement for Database Schema & Earth Systems Geologic Mapping Project
 
 ---
 
